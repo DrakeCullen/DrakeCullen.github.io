@@ -1,6 +1,7 @@
 # Project 3 - Client-side JS App using React
 
-### I created a game that I have called Cloud Jumper using ReactJS.
+# Description
+I created a game that I have called Cloud Jumper using ReactJS.
 
 <br/>
 
