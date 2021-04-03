@@ -5,7 +5,7 @@ I created a game that I have called Cloud Jumper using ReactJS.
 
 <br/>
 
-# #Requirements
+## Requirements
 My game satisfies all of the requirements. It uses 11 React components, 3 JSON files, 18 tests, and is deployed.
 <br/>
 
